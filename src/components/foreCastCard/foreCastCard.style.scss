@@ -1,0 +1,67 @@
+@import "../../App.scss";
+
+.forecast_container {
+  //   border: 1px solid #fff;
+  //   border: 1px solid red;
+  margin-top: 1rem;
+  // display: flex;
+  //   background-image: url('../../assets/weather_icons/patchy-rain-possible_day.png');
+  // justify-content: space-between;
+  width: 100%;
+
+  .forecastCard {
+    background: radial-gradient(
+      circle at top left,
+      rgba(23, 87, 206, 0.605),
+      rgba(29, 100, 232, 0.463),
+      rgba(29, 100, 232, 0.305)
+    );
+    @include blur_background;
+    background-color: rgba(21, 93, 194, 0.375);
+    // width: 70%;
+    width: 100%;
+    margin: 0  0 20px 55px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    .forecast_details {
+      display: flex;
+      align-items: center;
+    //   justify-content: space-between;
+
+    span:first-child p{
+        font-size: 1rem;
+        font-weight: 600;
+        margin-bottom: 10px;
+    }
+    span:last-child {
+        font-size: 1.2rem;
+        margin-left: 10px;
+        margin-top: 15px;
+    }
+      img {
+        height: 40px;
+      }
+    }
+    .forecast_conditions {
+      margin-left: 3rem;
+      text-align: center;
+      font-weight: 400;
+      margin-top: 15px;
+    //   font-size: 1.2rem;
+     p{
+        margin-bottom: 10px;
+     }
+    }
+  }
+}
+
+.spinner {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 2rem;
+  width: 100%;
+}
