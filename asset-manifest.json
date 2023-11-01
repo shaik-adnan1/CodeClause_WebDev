@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/shaik-adnan1/CodeClause_WebDev_weather_app.git/static/css/main.20e47e2b.css",
+    "main.js": "/shaik-adnan1/CodeClause_WebDev_weather_app.git/static/js/main.3298b9a4.js",
+    "static/js/787.bcd569ae.chunk.js": "/shaik-adnan1/CodeClause_WebDev_weather_app.git/static/js/787.bcd569ae.chunk.js",
+    "static/media/night_bg.jpg": "/shaik-adnan1/CodeClause_WebDev_weather_app.git/static/media/night_bg.270d536b09704f0f83fb.jpg",
+    "static/media/day_bg.jpg": "/shaik-adnan1/CodeClause_WebDev_weather_app.git/static/media/day_bg.2de5ca4ca29ef91ad8fe.jpg",
+    "static/media/patchy-rain-possible_night.png": "/shaik-adnan1/CodeClause_WebDev_weather_app.git/static/media/patchy-rain-possible_night.841dd6e9af1176a52a58.png",
+    "static/media/rainy_night.png": "/shaik-adnan1/CodeClause_WebDev_weather_app.git/static/media/rainy_night.841dd6e9af1176a52a58.png",
+    "static/media/patchy-rain-possible_day.png": "/shaik-adnan1/CodeClause_WebDev_weather_app.git/static/media/patchy-rain-possible_day.29db8a45d72be07550f8.png",
+    "static/media/rainy_day.png": "/shaik-adnan1/CodeClause_WebDev_weather_app.git/static/media/rainy_day.29db8a45d72be07550f8.png",
+    "static/media/cloudy_day.png": "/shaik-adnan1/CodeClause_WebDev_weather_app.git/static/media/cloudy_day.20f0cc1d2fa7fabb49bb.png",
+    "static/media/overcast_day.png": "/shaik-adnan1/CodeClause_WebDev_weather_app.git/static/media/overcast_day.20f0cc1d2fa7fabb49bb.png",
+    "static/media/moderate-rain_night.png": "/shaik-adnan1/CodeClause_WebDev_weather_app.git/static/media/moderate-rain_night.3175c86202f3b22ac70e.png",
+    "static/media/snowy.png": "/shaik-adnan1/CodeClause_WebDev_weather_app.git/static/media/snowy.d5ab2c12778f078523f2.png",
+    "static/media/mist_night.png": "/shaik-adnan1/CodeClause_WebDev_weather_app.git/static/media/mist_night.6fb8b9ad3e8bf681ccc0.png",
+    "static/media/snow-storm.png": "/shaik-adnan1/CodeClause_WebDev_weather_app.git/static/media/snow-storm.c11d9f7ba96b985e6b9d.png",
+    "static/media/windy_day.png": "/shaik-adnan1/CodeClause_WebDev_weather_app.git/static/media/windy_day.1c6059adf0e6020c09c7.png",
+    "static/media/light-rain-shower_day.png": "/shaik-adnan1/CodeClause_WebDev_weather_app.git/static/media/light-rain-shower_day.e89930c842a3f469d4f3.png",
+    "static/media/light-rain-shower_night.png": "/shaik-adnan1/CodeClause_WebDev_weather_app.git/static/media/light-rain-shower_night.e89930c842a3f469d4f3.png",
+    "static/media/moderate-rain_day.png": "/shaik-adnan1/CodeClause_WebDev_weather_app.git/static/media/moderate-rain_day.527d9f962019d830bb5b.png",
+    "static/media/cloudy_night.png": "/shaik-adnan1/CodeClause_WebDev_weather_app.git/static/media/cloudy_night.53ef0ead4c6aa6bf96b9.png",
+    "static/media/partly-cloudy_night.png": "/shaik-adnan1/CodeClause_WebDev_weather_app.git/static/media/partly-cloudy_night.53ef0ead4c6aa6bf96b9.png",
+    "static/media/windy_night.png": "/shaik-adnan1/CodeClause_WebDev_weather_app.git/static/media/windy_night.d0266ef3c52978ef1248.png",
+    "static/media/snowflake.png": "/shaik-adnan1/CodeClause_WebDev_weather_app.git/static/media/snowflake.116ddd70d11b7c9af964.png",
+    "static/media/sleet.png": "/shaik-adnan1/CodeClause_WebDev_weather_app.git/static/media/sleet.19b83b5ce0c425f2ab65.png",
+    "static/media/clear_night.png": "/shaik-adnan1/CodeClause_WebDev_weather_app.git/static/media/clear_night.826a46ad0f2187857c12.png",
+    "static/media/sunny_day.png": "/shaik-adnan1/CodeClause_WebDev_weather_app.git/static/media/sunny_day.e81609105b8eb137f55d.png",
+    "static/media/partly-cloudy_day.png": "/shaik-adnan1/CodeClause_WebDev_weather_app.git/static/media/partly-cloudy_day.2a297d974687b8fe632f.png",
+    "static/media/mist_day.png": "/shaik-adnan1/CodeClause_WebDev_weather_app.git/static/media/mist_day.cffbd3961a9c22f3bfcc.png",
+    "static/media/storm.png": "/shaik-adnan1/CodeClause_WebDev_weather_app.git/static/media/storm.3c6a60aeb5549413de68.png",
+    "static/media/overcast_night.png": "/shaik-adnan1/CodeClause_WebDev_weather_app.git/static/media/overcast_night.56bb8e45d4eedd4a0037.png",
+    "index.html": "/shaik-adnan1/CodeClause_WebDev_weather_app.git/index.html",
+    "main.20e47e2b.css.map": "/shaik-adnan1/CodeClause_WebDev_weather_app.git/static/css/main.20e47e2b.css.map",
+    "main.3298b9a4.js.map": "/shaik-adnan1/CodeClause_WebDev_weather_app.git/static/js/main.3298b9a4.js.map",
+    "787.bcd569ae.chunk.js.map": "/shaik-adnan1/CodeClause_WebDev_weather_app.git/static/js/787.bcd569ae.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20e47e2b.css",
+    "static/js/main.3298b9a4.js"
+  ]
+}
